@@ -12,7 +12,7 @@ This website serves as a hub for my personal projects, blog posts, and portfolio
 ## 🧠 Website Sections
 - **About**: A short introduction about who I am.
 - **Projects**: Showcasing selected work, research, or coding projects.
-- **Blog** *(optional)*: Sharing my thoughts, experiments, or technical notes.
+- **Blog** : Sharing my thoughts, experiments, or technical notes.
 - **Contact**: Ways to reach out.
 
 ## 📬 Contact
